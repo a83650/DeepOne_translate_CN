@@ -57,7 +57,7 @@ clickwait
 
 name,<outline width=2 color=black>樱・奥斯本</outline>,
 playvoice,1,download/adv/voice/character/1812/adu181204_01_06.mp3
-msg,1,<outline width=2 color=black>「嗯——亲、亲……亲、吻……」</outline>,
+msg,1,<outline width=2 color=black>「嗯——啾、嗯……啾、噗嗯……」</outline>,
 clickwait
 
 
@@ -85,7 +85,7 @@ clickwait
 
 
 playvoice,1,download/adv/voice/character/1812/adu181204_01_10.mp3
-msg,1,<outline width=2 color=black>「或者说，你的特别吗……啊，嗯，现在一下子颤抖了起来……喜欢我的胸部吗？」</outline>,
+msg,1,<outline width=2 color=black>「还是说，你的是特别的呢……啊，嗯，刚才颤抖了一下……你喜欢我的胸部吗？」</outline>,
 clickwait
 
 
