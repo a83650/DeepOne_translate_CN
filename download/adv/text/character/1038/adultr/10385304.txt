@@ -8,7 +8,7 @@ msg,0,,,,,,,,,,,
 endwait,,,,,,,,,,,
 bg,color_0_0_0,1,255
 endwait,,,,,,,,,,,
-msg,0,<outline width=2 color=black>鲜艳的绿色充满的山中，与七只一起继续前行。</outline>,
+msg,0,<outline width=2 color=black>鲜艳的绿色充满的山中，与七羽一起继续前行。</outline>,
 clickwait
 
 
@@ -19,12 +19,12 @@ clickwait
 
 
 playvoice,1,download/adv/voice/character/1038/adu103853_01_02.mp3
-msg,1,<outline width=2 color=black>「嗯……差不多该休息一下了。\n毕竟是来游玩的。也没必要太着急」</outline>,
+msg,1,<outline width=2 color=black>「嗯……差不多该休息一下了。\nn毕竟是难得的出游。也不用太着急赶路」</outline>,
 clickwait
 
 
 name,
-msg,0,<outline width=2 color=black>在七只的催促下，坐在附近的岩石上。</outline>,
+msg,0,<outline width=2 color=black>在七羽的催促下，我坐在了附近的一块岩石上。</outline>,
 clickwait
 
 
@@ -35,18 +35,18 @@ clickwait
 
 
 name,
-msg,0,<outline width=2 color=black>于是，七只理所当然地坐在我的膝上。</outline>,
+msg,0,<outline width=2 color=black>然后，七羽理所当然地坐到了我的膝盖上。</outline>,
 clickwait
 
 
 name,<outline width=2 color=black>供远七羽</outline>,
 playvoice,1,download/adv/voice/character/1038/adu103853_01_04.mp3
-msg,1,<outline width=2 color=black>「咕咕……怎么了？女人这样依赖着我。\n如果可以的话，希望你能抱住她才好」</outline>,
+msg,1,<outline width=2 color=black>「呵呵……怎么了？女人都这样依偎在你身边了。\n既然如此，至少应该抱紧我才对吧」</outline>,
 clickwait
 
 
 playvoice,1,download/adv/voice/character/1038/adu103853_01_05.mp3
-msg,1,<outline width=2 color=black>「还是……担心碰到我会忍不住而已吗？」</outline>,
+msg,1,<outline width=2 color=black>「还是说……你在担心一旦碰到我，\n就会忍不住了吗？」</outline>,
 clickwait
 
 
@@ -56,17 +56,17 @@ clickwait
 
 
 playvoice,1,download/adv/voice/character/1038/adu103853_01_07.mp3
-msg,1,<outline width=2 color=black>「没关系。没必要忍耐……不，我宁愿你不要碰我\n甚至希望你能这样请求我」</outline>,
+msg,1,<outline width=2 color=black>「没关系。没有必要忍耐……不如说，\n我还想请你不要忍耐呢。」</outline>,
 clickwait
 
 
 playvoice,1,download/adv/voice/character/1038/adu103853_01_08.mp3
-msg,1,<outline width=2 color=black>“难得的相聚……请更直接地理解我这样做的意义。\n因为我也期待着……明白吗？”</outline>,
+msg,1,<outline width=2 color=black>「难得的相聚……请更直接地理解我这样做的意思。\n我也是有所期待的……明白吗？」</outline>,
 clickwait
 
 
 playvoice,1,download/adv/voice/character/1038/adu103853_01_09.mp3
-msg,1,<outline width=2 color=black>「来吧，尽情触摸我……让我感受到你，让我感受到你」</outline>,
+msg,1,<outline width=2 color=black>「来吧，随心所欲地碰触我……让我感受到你」</outline>,
 clickwait
 
 
@@ -87,22 +87,22 @@ bg,download/character/103853/adv/image/101.jpg,0.5,255
 endwait,
 name,<outline width=2 color=black>供远七羽</outline>,
 playvoice,1,download/adv/voice/character/1038/adu103853_01_10.mp3
-msg,1,<outline width=2 color=black>「阴蒂，勃起得那么厉害……呼，呼呵……貌似想要侵犯我\n欲罢不能的样子」</outline>,
+msg,1,<outline width=2 color=black>「鸡巴，居然如此亢奋……呼，呵呵……似乎是无法忍耐\n想要侵犯我的样子」</outline>,
 clickwait
 
 
 playvoice,1,download/adv/voice/character/1038/adu103853_01_11.mp3
-msg,1,<outline width=2 color=black>「现在就是……被插穴的感觉吧，就像平时一样……被搅弄着……当我想象时……我也感受到阴道深处的疼痛……啊，嗯」</outline>,
+msg,1,<outline width=2 color=black>「接下来就用这个……像往常一样搅弄雌穴吧\n一想到……我也感受到雌穴深处的疼痛……啊，嗯」</outline>,
 clickwait
 
 
 playvoice,1,download/adv/voice/character/1038/adu103853_01_12.mp3
-msg,1,<outline width=2 color=black>「怎么了……你已经忍不住了吧……？\n那就快点塞进去吧……呵呵」</outline>,
+msg,1,<outline width=2 color=black>「怎么了……鸡巴已经，忍不住了吧……？\n那么，快点放进去吧……呵呵」</outline>,
 clickwait
 
 
 playvoice,1,download/adv/voice/character/1038/adu103853_01_13.mp3
-msg,1,<outline width=2 color=black>「把你的家伙插进我的阴道里……嗯，相互享受毁灭般的\n快感怎么样……明白？」</outline>,
+msg,1,<outline width=2 color=black>「把它插进我的雌穴……嗯，我们一起沉醉于\n快到崩溃的快感吧……怎么样？」</outline>,
 clickwait
 
 
@@ -119,7 +119,7 @@ clickwait
 
 
 playvoice,1,download/adv/voice/character/1038/adu103853_01_16.mp3
-msg,1,<outline width=2 color=black>「再来，很棒……啊，啊啊，我的阴道，请尽情享用……嗯嗯，\n哈，啊啊……用你的家伙搅匀它们就好了……」</outline>,
+msg,1,<outline width=2 color=black>「再来，很棒……啊，啊啊，我的雌穴，请尽情享用……嗯嗯，\n哈，啊啊……用你的家伙搅匀它们就好了……」</outline>,
 clickwait
 
 
@@ -151,7 +151,7 @@ clickwait
 
 
 playvoice,1,download/adv/voice/character/1038/adu103853_01_22.mp3
-msg,1,<outline width=2 color=black>「母穴被你完全支配着！唔、啊、啊啊啊啊！\n要来了、出口、哦哦哦哦哦哦！」</outline>,
+msg,1,<outline width=2 color=black>「雌穴被你完全支配着！唔、啊、啊啊啊啊！\n要来了、出口、哦哦哦哦哦哦！」</outline>,
 clickwait
 
 
@@ -160,24 +160,24 @@ endwait,,,,,,,,,,,
 bg,download/character/103853/adv/image/104.jpg,0.5,255
 endwait,
 playvoice,1,download/adv/voice/character/1038/adu103853_01_23.mp3
-msg,1,<outline width=2 color=black>「哈、啊啊啊！这个、hnnu、foo、喏、哈拉哈拉！！」</outline>,
+msg,1,<outline width=2 color=black>「哈、啊啊啊……！啊、嗯嗯、呜、呜\n嗯、哈、啊啊……！」</outline>,
 clickwait
 
 
 bg,download/character/103853/adv/image/105.jpg,0.5,255
 endwait,
 playvoice,1,download/adv/voice/character/1038/adu103853_01_24.mp3
-msg,1,<outline width=2 color=black>「嘛、噢~太输给阴道和肉棒了~噢唷~\n失败的尴尬高潮~kuhehe」</outline>,
+msg,1,<outline width=2 color=black>「嘛、噢……雌穴输给肉棒了……噢唷、\n失败的尴尬高潮~kuhehe」</outline>,
 clickwait
 
 
 playvoice,1,download/adv/voice/character/1038/adu103853_01_25.mp3
-msg,1,<outline width=2 color=black>「胜者应该有奖励……看，这个废物穴，\n你随便弄……」</outline>,
+msg,1,<outline width=2 color=black>「胜者应该有奖励……看，这个杂鱼小穴，\n你随便弄……」</outline>,
 clickwait
 
 
 playvoice,1,download/adv/voice/character/1038/adu103853_01_26.mp3
-msg,1,<outline width=2 color=black>「不只是母穴……为了你射精……嗯，嗯、\n为了兴奋，你可以随意使用我的身体……」</outline>,
+msg,1,<outline width=2 color=black>「不只是雌穴……为了你射精……嗯，嗯、\n为了兴奋，你可以随意使用我的身体……」</outline>,
 clickwait
 
 
