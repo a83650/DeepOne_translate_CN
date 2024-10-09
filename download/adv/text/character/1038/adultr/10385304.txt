@@ -8,7 +8,7 @@ msg,0,,,,,,,,,,,
 endwait,,,,,,,,,,,
 bg,color_0_0_0,1,255
 endwait,,,,,,,,,,,
-msg,0,<outline width=2 color=black>鲜艳的绿色充满的山中，与七只一起继续前行。</outline>,
+msg,0,<outline width=2 color=black>鲜艳的绿色充满的山中，与七羽一起继续前行。</outline>,
 clickwait
 
 
